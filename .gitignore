@@ -1,5 +1,10 @@
 # Xcode
 #
+# Logs
+logs
+*.log
+.DS_Store
+
 build/
 *.pbxuser
 !default.pbxuser
